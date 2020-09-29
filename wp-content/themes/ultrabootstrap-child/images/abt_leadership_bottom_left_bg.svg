@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="254.998" height="254.998" viewBox="0 0 254.998 254.998">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #e0f0ff;
+      }
+    </style>
+  </defs>
+  <path id="Quarter_Circle" data-name="Quarter Circle" class="cls-1" d="M8510,477a255.186,255.186,0,0,1,255-255v63.142a191.363,191.363,0,0,0-190.12,172.49,193.5,193.5,0,0,0-.943,19.366Z" transform="translate(476.999 -8510) rotate(90)"/>
+</svg>
